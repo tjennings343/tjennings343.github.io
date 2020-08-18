@@ -1,11 +1,11 @@
 # Site settings
 author: Trey Jennings
-title: Why Software Engineering
+title: A New Adventure
 header-img: img/home-bg.png
 email: tjennings343@gmail.com
 copyright_name: Trey Jennings
 description: > # this means to ignore newlines until "baseurl:"
-  Why I'm here
+  My Path To Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tjennings343
