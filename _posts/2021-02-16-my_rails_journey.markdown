@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Rails Journey"
-date:       2021-02-17 04:19:57 +0000
+date:       2021-02-16 23:19:57 -0500
 permalink:  my_rails_journey
 ---
 
